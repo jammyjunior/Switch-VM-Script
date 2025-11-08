@@ -1,5 +1,5 @@
 # Switch-VM-Script
-For Linux system based
+For Linux based system
 ## Download and setup
 
 Clone the script:
